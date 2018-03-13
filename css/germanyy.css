@@ -1,0 +1,26 @@
+.germany{
+    height: 300px;
+    width: 600px;
+    border: 2px solid #000000;
+    margin: auto;
+}
+.germany_line_item {
+    height: 100px;
+}
+.germany_line_up{
+    background: black;
+}
+.germany_line_center{
+    background: red;
+}
+.germany_line_foot {
+    background: yellow;
+}
+.coment_germany{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.germany:hover +.coment_germany{
+    visibility: visible;
+}

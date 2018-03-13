@@ -1,0 +1,34 @@
+.congo{
+    display: block;
+    position: relative;
+    width: 600px;
+    height: 300px;
+    border: 2px solid #000000;
+    background-color: #fbde4a;
+    margin: 0 auto;
+}
+.congo_triangle-item{
+    position: absolute;
+}
+.congo_triangle-up {
+    right: 150px;
+    border-left: 0 solid transparent;
+    border-right: 450px solid transparent;
+    border-top: 300px solid #009543;
+    border-bottom: 0 solid transparent;
+}
+.congo_triangle-down {
+    left: 150px;
+    border-left: 450px solid transparent;
+    border-right: 0 solid transparent;
+    border-bottom: 300px solid #dc241f;
+    border-top: 0 solid transparent;
+}
+.coment_congo{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.congo:hover + .coment_congo{
+    visibility: visible;
+}

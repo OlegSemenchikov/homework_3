@@ -1,0 +1,44 @@
+.norway{
+    position: relative;
+    width: 600px;
+    height: 300px;
+    background: #EE2C2E;
+    border: 2px solid #000000;
+    margin: auto;
+}
+.norway_line_vertical_slim{
+    position: absolute;
+    background-color:#012768;
+    width:50px;
+    height: 300px;
+    left:150px;
+}
+.norway_line_horizontal_slim{
+    position: absolute;
+    background-color:#012768;
+    height:50px;
+    width:600px;
+    top:125px;
+}
+.norway_line_vertical_wide{
+    position: absolute;
+    background-color:#FFFEFF;
+    width:80px;
+    height: 300px;
+    left:135px;
+}
+.norway_line_horizontal_wide{
+    position: absolute;
+    background-color:#FFFEFF;
+    height:80px;
+    width:600px;
+    top:110px;
+}
+.coment_norway{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.norway:hover + .coment_norway{
+    visibility: visible;
+}

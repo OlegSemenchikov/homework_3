@@ -1,0 +1,38 @@
+.neverland {
+    height: 294px;
+    width: 600px;
+    border: 2px solid #000000;
+    margin: auto;
+}
+.neverland_line_item {
+    height: 42px;
+}
+.neverland_line_1 {
+    background: red;
+}
+.neverland_line_2{
+    background: #ff7500;
+}
+.neverland_line_3{
+    background: #ffcf00;
+}
+.neverland_line_4 {
+    background: green;
+}
+.neverland_line_5{
+    background: #00aaff;
+}
+.neverland_line_6{
+    background: blue;
+}
+.neverland_line_7{
+    background: darkviolet;
+}
+.coment_neverland{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.neverland:hover + .coment_neverland{
+    visibility: visible;
+}

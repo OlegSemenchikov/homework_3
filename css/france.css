@@ -1,0 +1,34 @@
+.france{
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid #000000;
+    position: relative;
+    margin: auto;
+}
+
+.france:before{
+    content: "";
+    width: 200px;
+    height: 300px;
+    background-color: #0055A4;
+    position: absolute;
+}
+
+.france:after{
+    content: "";
+    width: 200px;
+    height: 300px;
+    background-color: #EF4135;
+    position: absolute;
+    right: 0;
+}
+.coment_france{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.france:hover +.coment_france{
+    display: block;
+    visibility: visible;
+}

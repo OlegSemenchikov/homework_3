@@ -1,0 +1,24 @@
+.japan_item{
+    height: 300px;
+    width: 600px;
+    border: 2px solid #000000;
+    background: #FFFFFF;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.japan_circle{
+    width: 200px;
+    height: 200px;
+    background: #BF0028;
+    border-radius: 100px;
+    margin: auto;
+}
+.coment_japan{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.japan_item:hover + .coment_japan{
+    visibility: visible;
+}
