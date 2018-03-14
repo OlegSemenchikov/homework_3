@@ -1,0 +1,67 @@
+.france{
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid #000000;
+    position: relative;
+    margin: auto;
+}
+.france:before{
+    content: "";
+    width: 200px;
+    height: 300px;
+    background-color: #0055A4;
+    position: absolute;
+}
+.france:after{
+    content: "";
+    width: 200px;
+    height: 300px;
+    background-color: #EF4135;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.congo{
+    display: none;
+    position: relative;
+    width: 600px;
+    height: 300px;
+    background-color: #fbde4a;
+    margin: 0 auto;
+}
+.congo_triangle-item{
+    position: absolute;
+}
+.congo_triangle-up {
+    right: 150px;
+    border-left: 0 solid transparent;
+    border-right: 450px solid transparent;
+    border-top: 300px solid #009543;
+    border-bottom: 0 solid transparent;
+}
+.congo_triangle-down {
+    left: 150px;
+    border-left: 450px solid transparent;
+    border-right: 0 solid transparent;
+    border-bottom: 300px solid #dc241f;
+    border-top: 0 solid transparent;
+}
+.france:hover .congo{
+    display:block;
+}
+.coment_france{
+    text-align: center;
+    font-size: 24px;
+}
+.france:hover ~ .coment_france{
+    display: none;
+}
+.coment_congo{
+    text-align: center;
+    font-size: 24px;
+    display: none;
+}
+.france:hover ~ .coment_congo{
+    display: block;
+}

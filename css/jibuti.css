@@ -1,0 +1,71 @@
+.jibuti{
+    border: 2px solid #000000;
+    position: relative;
+    height:300px;
+    width:600px;
+    background: #6AB3EA;
+    margin: auto;
+}
+.jibuti:before{
+    content:"";
+    position: absolute;
+    background: #12AD2B;
+    top:150px;
+    height:150px;
+    width: 600px;
+}
+.jibuti_triangle{
+    content:"";
+    position: absolute;
+    border-top: 150px solid transparent;
+    border-left: 300px solid #FFFFFF;
+    border-bottom: 150px solid transparent;
+}
+.jibuti_star{
+    position: absolute;
+    display: block;
+    top: 130px;
+    left: 60px;
+    width: 0;
+    height: 0;
+    border-right:  50px solid transparent;
+    border-bottom: 35px  solid #D7131B;
+    border-left:   50px solid transparent;
+    transform:    rotate(35deg);
+}
+.jibuti_star:before {
+    content: '';
+    border-bottom: 40px solid #D7131B;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -25px;
+    left: -35px;
+    display: block;
+    transform: rotate(-35deg);
+
+}
+.jibuti_star:after {
+    position: absolute;
+    content: '';
+    display: block;
+    top: 3px;
+    left: -55px;
+    width: 0;
+    height: 0;
+    border-right: 50px solid transparent;
+    border-bottom: 35px solid #D7131B;
+    border-left: 50px solid transparent;
+    transform: rotate(-70deg);
+}
+
+.coment_jibuti{
+    visibility: hidden;
+    text-align: center;
+    font-size: 24px;
+}
+.jibuti:hover +.coment_jibuti{
+    visibility: visible;
+}

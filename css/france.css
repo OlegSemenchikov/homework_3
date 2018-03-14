@@ -29,6 +29,5 @@
     font-size: 24px;
 }
 .france:hover +.coment_france{
-    display: block;
     visibility: visible;
 }

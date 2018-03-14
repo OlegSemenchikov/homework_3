@@ -1,0 +1,60 @@
+.czech{
+    border: 2px solid #000000;
+    position: relative;
+    height:300px;
+    width:600px;
+    background-color: white;
+    margin: auto;
+}
+.czech:after{
+    content:"";
+    position: absolute;
+    border-top: 150px solid transparent;
+    border-left: 250px solid blue;
+    border-bottom: 150px solid transparent;
+    top: 0;
+}
+.czech:before{
+    content:"";
+    display:block;
+    position: absolute;
+    background-color: red;
+    top:150px;
+    height:150px;
+    width: 600px;
+}
+.palauan{
+    display: none;
+    position: relative;
+    width: 600px;
+    height: 300px;
+    background-color: #029AFF;
+    margin: auto;
+}
+.palauan_round {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: #FFFF02;
+    position: absolute ;
+    bottom: 50px;
+    right: 230px;
+}
+.czech:hover .palauan{
+    display:block;
+}
+.coment_czech{
+    text-align: center;
+    font-size: 24px;
+}
+.czech:hover ~ .coment_czech{
+    display: none;
+}
+.coment_palauan{
+    text-align: center;
+    font-size: 24px;
+    display: none;
+}
+.czech:hover ~ .coment_palauan{
+    display: block;
+}

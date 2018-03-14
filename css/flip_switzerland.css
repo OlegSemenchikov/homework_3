@@ -1,0 +1,71 @@
+.switzerland{
+    display: block;
+    width:600px;
+    height: 300px;
+    background-color:#D52B1E;
+    border: 2px solid #000000;
+    position:relative;
+    margin: auto;
+}
+.switzerland:after{
+    position:absolute;
+    content:"";
+    top: 70px;
+    width:50px;
+    height: 160px;
+    background-color:black;
+    left:275px;
+}
+.switzerland:before{
+    position:absolute;
+    content:"";
+    left:220px;
+    height:50px;
+    width:160px;
+    background-color:black;
+    top:125px;
+}
+.italy{
+    display: none;
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+}
+.italy:before {
+    content: "";
+    width: 200px;
+    height: 300px;
+    background: #209603;
+    position: absolute;
+}
+.italy:after {
+    content: "";
+    width: 200px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+}
+.switzerland:hover .italy{
+    display:block;
+}
+.italy:hover .switzerland:after{
+    display:none;
+}
+.coment_switzerland{
+    text-align: center;
+    font-size: 24px;
+}
+.switzerland:hover ~ .coment_switzerland{
+    display: none;
+}
+.coment_italy{
+    text-align: center;
+    font-size: 24px;
+    display: none;
+}
+.switzerland:hover ~ .coment_italy{
+    display: block;
+}
