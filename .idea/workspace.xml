@@ -2,21 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb44ff97-78b2-4b3a-b05e-e2dc416dde5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/cuba.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/flip_czech.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/flip_france.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/flip_switzerland.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jibuti.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/palauan.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flags/flip_flags.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bangladesh.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/congo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/cuba.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/czech.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/finland.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flip_czech.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flip_france.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flip_switzerland.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/france.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/germanyy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/guinee.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/italy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/japan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/jibuti.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/neverland.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/norway.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/palauan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/russia.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/scotland.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style_flags.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/sverige.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/switzerland.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ukraine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vietnam.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flags/flags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flags/flip_flags.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/czech.css" afterPath="$PROJECT_DIR$/css/czech.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/france.css" afterPath="$PROJECT_DIR$/css/france.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_app.css" afterPath="$PROJECT_DIR$/css/style_app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_flags.css" afterPath="$PROJECT_DIR$/css/style_flags.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vietnam.css" afterPath="$PROJECT_DIR$/css/vietnam.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flags/flags.html" afterPath="$PROJECT_DIR$/flags/flags.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,28 +49,7 @@
     <favorites_list name="homework_3" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cuba.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/cuba.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flags.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flags/flags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,7 +74,6 @@
         <option value="$PROJECT_DIR$/css/neverland.css" />
         <option value="$PROJECT_DIR$/css/bangladesh.css" />
         <option value="$PROJECT_DIR$/css/germanyy.css" />
-        <option value="$PROJECT_DIR$/css/guinee.css" />
         <option value="$PROJECT_DIR$/css/japan.css" />
         <option value="$PROJECT_DIR$/css/porty.css" />
         <option value="$PROJECT_DIR$/css/scotland.css" />
@@ -97,18 +88,25 @@
         <option value="$PROJECT_DIR$/css/italy.css" />
         <option value="$PROJECT_DIR$/css/style_app.css" />
         <option value="$PROJECT_DIR$/css/style_video.css" />
-        <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/css/france.css" />
         <option value="$PROJECT_DIR$/css/russia.css" />
-        <option value="$PROJECT_DIR$/flags/flip_flags.html" />
-        <option value="$PROJECT_DIR$/css/flip_czech.css" />
-        <option value="$PROJECT_DIR$/css/flip_france.css" />
-        <option value="$PROJECT_DIR$/css/flip_switzerland.css" />
         <option value="$PROJECT_DIR$/css/turkey.css" />
-        <option value="$PROJECT_DIR$/css/style_flags.css" />
         <option value="$PROJECT_DIR$/css/jibuti.css" />
-        <option value="$PROJECT_DIR$/flags/flags.html" />
         <option value="$PROJECT_DIR$/css/cuba.css" />
+        <option value="$PROJECT_DIR$/css/flip_switzerland.css" />
+        <option value="$PROJECT_DIR$/css/flip_france.css" />
+        <option value="$PROJECT_DIR$/css/flip_czech.css" />
+        <option value="$PROJECT_DIR$/css/flip_sverige.css" />
+        <option value="$PROJECT_DIR$/css/flip_japan.html" />
+        <option value="$PROJECT_DIR$/css/flip_japan.css" />
+        <option value="$PROJECT_DIR$/css/style_flags.css" />
+        <option value="$PROJECT_DIR$/css/guinee.css" />
+        <option value="$PROJECT_DIR$/flags/flags.html" />
+        <option value="$PROJECT_DIR$/css/maldives.css" />
+        <option value="$PROJECT_DIR$/flags/flip_flags.html" />
+        <option value="$PROJECT_DIR$/css/flip_maldives.css" />
+        <option value="$PROJECT_DIR$/css/greece.css" />
+        <option value="$PROJECT_DIR$/app.html" />
       </list>
     </option>
   </component>
@@ -142,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,27 +178,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="flags" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homework_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homework_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,17 +277,20 @@
       <workItem from="1521042531811" duration="11442000" />
       <workItem from="1521065988115" duration="2607000" />
       <workItem from="1521068994865" duration="11000" />
+      <workItem from="1521069270169" duration="12000" />
+      <workItem from="1521131536635" duration="12238000" />
+      <workItem from="1521154069076" duration="1722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80540000" />
+    <option name="totallyTimeSpent" value="94512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -332,49 +319,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style_flags.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style_flags.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flags/flags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="63" lean-forward="false" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/italy.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/russia.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Homework2/homework_2/app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -400,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -444,13 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/guinee.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/neverland.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -473,24 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sverige.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/finland.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/japan.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -519,13 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/video.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -564,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style_app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/congo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -578,17 +486,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flags/flip_flags.html">
+    <entry file="file://$PROJECT_DIR$/css/turkey.css" />
+    <entry file="file://$PROJECT_DIR$/css/jibuti.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/flip_czech.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -599,54 +501,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/flip_france.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flip_switzerland.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="561">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/turkey.css" />
-    <entry file="file://$PROJECT_DIR$/app.html">
+    <entry file="file://$PROJECT_DIR$/css/sverige.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style_flags.css">
+    <entry file="file://$PROJECT_DIR$/css/flip_czech.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/jibuti.css">
+    <entry file="file://$PROJECT_DIR$/css/flip_sverige.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="-169">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flags/flags.html">
+    <entry file="file://$PROJECT_DIR$/css/flip_japan.html" />
+    <entry file="file://$PROJECT_DIR$/css/flip_japan.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/cuba.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/japan.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_flags.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/guinee.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/maldives.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flip_maldives.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/greece.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flags/flags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="147" column="8" lean-forward="true" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flip_france.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flags/flip_flags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
